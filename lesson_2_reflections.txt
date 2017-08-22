@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+
+it helps in making the directory as repository and hence keeps track of the commits and the tracked and untraked files.

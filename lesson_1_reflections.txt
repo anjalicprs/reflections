@@ -1,0 +1,3 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Sometimes we do silly mistakes like typo or something like that so comparing the two files allow us to check what went wrong in the case it is not working properly.
